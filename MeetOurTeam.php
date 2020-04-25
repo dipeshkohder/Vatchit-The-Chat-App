@@ -1,0 +1,109 @@
+<?php
+
+	include('headerwithlogin.php');
+
+?>
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+			<link rel = "stylesheet" href="./MeetOurTeamGUI.css" type ="text/css">
+	</head>
+    <body background="Background.png">
+	<center>
+<div class="container">
+                    <div class="row">
+                        <div class="heading-title text-center" style="color:white;">
+						    <h1 class="text-uppercase" >Fruit Salad Pvt. Ltd.</h1> 
+                            
+							<h3 class="text-uppercase">MISSION </h3>
+                            <p class="p-top-30 half-txt">We’ve built VaatChit on the idea that helping others is as much important as creating a great product. While turning simple live chat app into a robust business platform, we’ve gained tons of knowledge about growth and customer relations. Our mission is to share our knowledge, bring personal touch to online communication and never stop loving what we do.esses better and more efficiently while creating long-term relationships. </p>
+							
+							<h3 class="text-uppercase">VISION </h3>
+                            <p class="p-top-30 half-txt">To provide a secure and reliable chatting platform for the users across different regions. CONNECTING PEOPLE through words is our ultimate goal. </p>
+							<h2 class="text-uppercase">Our professionals </h2>
+						</div>
+
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="Dipesh.jpg" alt="team member" class="img-responsive" width="300" height="300">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Hi There !</h4>
+                                        <p>I love to introduce myself as a hardcore Cyber Security Enthusist.</p>
+                                    </div>
+                                    <div class="s-link">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h3 style="color:white;">Dipesh Darji</h3>
+                                <span>Co-Founder</span><br>
+								<span>Fruit Salad Pvt. Ltd.</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="Dhairya.jpg" alt="team member" class="img-responsive" width="300" height="300">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Hello World</h4>
+                                        <p>I love to introduce myself as a hardcore Graphics Designer.</p>
+                                    </div>
+                                    <div class="s-link">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h3 style="color:white;">Dhairya Acharya</h3>
+								<span>Co-Founder</span><br>
+								<span>Fruit Salad Pvt. Ltd.</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member">
+                                <div class="team-img">
+                                    <img src="Viral.jpg" alt="team member" class="img-responsive" width="300" height="300">
+                                </div>
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>I love working with data</h4>
+                                        <p>I love to introduce myself as a Database Administrator.</p>
+                                    </div>
+                                    <div class="s-link">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-title">
+                                <h3 style="color:white;">Viral Gajera</h3>
+                                <span>Co-Founder</span><br>
+								<span>Fruit Salad Pvt. Ltd.</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+				</center>
+			</body>
+			
+</html>
+<?php 
+
+include('footer.php');
+
+?>

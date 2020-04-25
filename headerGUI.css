@@ -1,0 +1,83 @@
+.companybar
+{
+   width: 100%;
+   height : 80px;
+   display : block;
+   background-color: #0000cc;
+    
+}
+
+.navbar {
+  width: 100%;
+  background-color: #ccccb3;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+}
+.navbar button {
+  margin: 5px;
+  font-weight: 900;
+  float : right;
+  padding: 10px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #0000cc;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 5px #999;
+}
+
+.navbar button:hover {background-color: #ccccb3}
+
+.navabar button:active {
+  background-color: #ffffff;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.logo{
+    height : 100%;
+    display : table;
+    float : left;
+    
+}
+.logo h1{
+    color : white;
+    height : 100%;
+    display : table-cell;
+    vertical-align: middle;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight : 200;
+	
+}
+
+.logo h1 span{
+    font-weight: 800;
+}
+.tagline{
+    height : 100%;
+    display : table;
+    float : right;
+    
+}
+.tagline h1{
+    color : white;
+    height : 100%;
+    display : table-cell;
+    
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight : 200;
+	
+}
+ 

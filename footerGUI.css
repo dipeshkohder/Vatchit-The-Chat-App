@@ -1,0 +1,27 @@
+.companybar
+{
+    width: 100%;
+    background-color: #fff;
+    overflow: auto;
+}
+
+
+.tagline{
+    height : 7%;
+    display : table;
+    float : middle;
+    
+}
+.tagline h1{
+    color : white;
+    height : 7%;	
+	float : center;
+    display : table-cell;
+    vertical-align: bottom;
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight : 200;
+	
+}
+ 
+    
